@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # projek_uts_nuril
 
 A new Flutter project.
@@ -19,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 # PROJEK_UTS_Nuril
 .
 >>>>>>> 67fe030158976c74e7a4deaf421b6763c9ba55b1
+=======
+
+>>>>>>> 9943cf8745bb15438188f0fc431fdfb43a8a594a
