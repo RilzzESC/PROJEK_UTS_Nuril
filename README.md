@@ -1,25 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# projek_uts_nuril
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# PROJEK_UTS_Nuril
-.
->>>>>>> 67fe030158976c74e7a4deaf421b6763c9ba55b1
-=======
-
->>>>>>> 9943cf8745bb15438188f0fc431fdfb43a8a594a
+|||
+|--|--|
+| NIM | **8113230038** |
+| Nama Lengkap | **Nuril Amin** |
+| Kelas | TI-3 |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
